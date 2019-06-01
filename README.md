@@ -1,4 +1,4 @@
-# Sample app Spring Boot and MongoDb
+# Sample app Spring Boot and Cosmos DB
 
 ## build and run with Docker
 
